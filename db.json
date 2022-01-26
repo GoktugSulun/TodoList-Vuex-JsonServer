@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "title": "2 eggs",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "10 monster",
+      "completed": true
+    },
+    {
+      "id": 8,
+      "title": "apple",
+      "completed": true
+    },
+    {
+      "id": 9,
+      "title": "milk",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "1.5 kg beef",
+      "completed": false
+    },
+    {
+      "title": "5 kg rice",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "title": "1 kg chicken",
+      "completed": false,
+      "id": 12
+    }
+  ]
+}
